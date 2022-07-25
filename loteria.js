@@ -5,7 +5,7 @@
 
 var animales_total = ["Canguro", "Águila", "Elefante", "Cocodrilo", "Jirafa",
                 "Tucán", "Oso", "Búho", "Cebra", "León", "Hiena",
-                "Rinoceronte", "Serpiente", "Mono", "Tigre"];
+                "Rinoceronte", "Serpiente", "Mono", "Tigre", "Hipopotamo"];
 
 var animales = [];
 
@@ -25,7 +25,8 @@ var getImagenAnimal = (unAnimal) => {
                         "Rinoceronte": "img/rinoceronte.svg",
                         "Serpiente": "img/serpiente.svg",
                         "Mono": "img/mono.svg",
-                        "Tigre": "img/tigre.svg"};
+                        "Tigre": "img/tigre.svg",
+                        "Hipopotamo": "img/hipopotamo.svg",};
     return imagenes_animales[unAnimal];
 };
 
