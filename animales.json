@@ -1,0 +1,20 @@
+{
+  animales: [
+            "aguila",
+            "buho",
+            "canguro",
+            "cebra",
+            "cocodrilo",
+            "elefante",
+            "hiena",
+            "hipopotamo",
+            "jirafa",
+            "leon",
+            "mono",
+            "oso",
+            "rinoceronte",
+            "serpiente",
+            "tigre",
+            "tucan"
+  ]
+}
